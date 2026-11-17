@@ -22,14 +22,14 @@ OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
 PLAN = "\n".join(
     [
-        "Day 1: pick one fix an AI does better than a human - repairing broken product pages on small Shopify stores.",
+        "Day 1: pick one fix an AI does better than a human - repairing broken product pages on small Shopify stores already taking orders.",
         "Build a scanner that finds stores with dead images, missing descriptions or slow pages, plus a one-page site and a $49 payment link.",
         "Days 2-3: fix three pages free for five stores and keep before/after screenshots as proof.",
         "Days 4-30: email 50 stores a day, each message naming its exact flaw and attaching the fixed page; charge $49 per store for the full fix, delivered by code the same day.",
         "Each fix is code, so a sale costs minutes, not hours.",
         "Target two sales a day ($98/day). Kill rule: any list under 1% replies after 200 emails is dropped; double the list that converts best.",
-        "Spend $0 until $200 is banked, then try one second channel (an Upwork gig) only if it beats email's dollars per hour.",
-        "Keep the starting $100 as reserve; never spend on ads, trading or tools that do not pay back in 7 days.",
+        "Spend $0 until $200 is banked, then try one second channel (Upwork) only if it beats email's dollars per hour.",
+        "Keep the $100 as reserve; never spend on ads, trading or tools that do not pay back in 7 days.",
         "Expected: $1,200-$1,800 by day 30, from fixes, repeat work and referrals.",
     ]
 )

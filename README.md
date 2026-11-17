@@ -20,7 +20,7 @@ kill rule for dead channels, and a cash reserve that is never touched.
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
-This writes `out/entry.txt`: 988 UTF-8 characters, identical on every run.
+This writes `out/entry.txt`: 996 UTF-8 characters, identical on every run.
 
 ---
 
